@@ -1,4 +1,4 @@
-echo $'\r\r\r\r\r\r'; figlet '                           FORG'
+echo $'\r\r\r\r\r\r'; figlet '                           \FORG/'
 
 
 
