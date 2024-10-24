@@ -5,8 +5,11 @@ ANYONE CAN USE THE TOOL ITS OPENSOURCE BUT PLEASE GIVE CREDITS TO FORG
 TOOL FOR ATTACKING WHATSAPP NUMBERS WITH UNLIMITED LINKING REQUESTS
 
 DOWNLOAD:
--pkg install curl
--pkg install figlet
--pkg install git
--git clone
--
+•pkg install curl
+
+•pkg install figlet
+
+•pkg install git
+
+•git clone
+•
